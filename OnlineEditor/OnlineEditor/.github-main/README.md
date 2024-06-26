@@ -1,0 +1,5 @@
+
+# Hi There!
+Online learning has become a trend since the breakout of Covid-19. However, there is no platform in the learning mall for XJTLUers to learn programming online. To provide students who are eager to learn programming skills (especially for non-computer majors), our team tries to create a new, interactive way of learning -- a web-based online programming learning platform.  Our goal was to give XJTLUers  the ability to learn the skills they’d need to succeed in the 21st century. Programming contains a world of possibilities — all that’s required is the curiosity and drive to learn.
+
+To this end, our system includes functions such as online editing, real-time feedback interaction, and progress tracking. We will provide a full range of courses from elementary to advanced. Students can have their unique accounts to track progress, record their achievements and find suitable progress. By embedding this system in the learning mall, there is no doubt that all XJTLUers can benefit from it.
